@@ -16,8 +16,8 @@ Neste momento, estou dando meus primeiros passos em Desenvolvimento Front-End (H
 *   **Ferramentas Base:** Git, GitHub, Markdown
 
 ### Projetos e Estudos em Destaque
-*   **[Estudos Práticos de Front-End Web](#)**
-    Aplicação de conceitos iniciais de HTML e CSS durante as aulas de Desenvolvimento Front-End, estruturando páginas web com foco em design profissional e navegação.
+*   **[EventCaraguá - Plataforma de Eventos Locais (Em Desenvolvimento)](COLOQUE_O_LINK_DO_REPOSITORIO_AQUI)**
+    Desenvolvendo em dupla um sistema web para divulgação e inscrições de eventos da cidade. Atuo na estruturação do desenvolvimento Front-End e na modelagem evolutiva do banco de dados relacional, aplicando conceitos práticos semanais conforme o avanço do projeto.
 *   **[Resolução de Algoritmos em Python](#)**
     Desenvolvimento de pequenos scripts utilizando a lógica de programação, listas e tuplas para resolver problemas propostos na disciplina de Pensamento Computacional.
 
