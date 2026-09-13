@@ -17,7 +17,7 @@ Neste momento, estou dando meus primeiros passos em Desenvolvimento Front-End (H
 * **Inteligência Artificial:** Engenharia de Prompt e Aplicações em IA
 * **Ferramentas:** Git, GitHub e Markdown
 
-### Projetos em Destaque
+### Projetos
 
 [**Controle de Tarefas**](https://github.com/FelipeFreitas5/controle-de-tarefas)
 
