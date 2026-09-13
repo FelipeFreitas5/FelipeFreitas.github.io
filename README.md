@@ -21,7 +21,7 @@ Neste momento, estou dando meus primeiros passos em Desenvolvimento Front-End (H
 
 [**Controle de Tarefas**](https://github.com/FelipeFreitas5/controle-de-tarefas)
 
-Desenvolvi uma aplicação web simples para criar, concluir, excluir e filtrar tarefas. O projeto utiliza HTML, CSS e JavaScript, além do LocalStorage para manter as tarefas salvas no navegador.
+Desenvolvi uma aplicação web para cadastrar, concluir, excluir e filtrar tarefas. O projeto utiliza HTML, CSS e JavaScript, com LocalStorage para manter os dados salvos no navegador.
 
 [**Sistema de Biblioteca**](https://github.com/FelipeFreitas5/sistema-de-biblioteca)
 
