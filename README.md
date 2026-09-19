@@ -23,6 +23,8 @@ Neste momento, estou dando meus primeiros passos em Desenvolvimento Front-End (H
 
 Desenvolvi uma aplicação web para cadastrar, concluir, excluir e filtrar tarefas. O projeto utiliza HTML, CSS e JavaScript, com LocalStorage para manter os dados salvos no navegador.
 
+[**Ver projeto online**](https://felipefreitas5.github.io/controle-de-tarefas/)
+
 [**Sistema de Biblioteca**](https://github.com/FelipeFreitas5/sistema-de-biblioteca)
 
 Desenvolvi um sistema web para cadastrar, pesquisar, emprestar e devolver livros. O projeto utiliza HTML, CSS e JavaScript, além do LocalStorage para manter os livros salvos no navegador.
