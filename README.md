@@ -25,7 +25,7 @@ Desenvolvi uma aplicação web para cadastrar, concluir, excluir e filtrar taref
 
 [**Sistema de Biblioteca**](https://github.com/FelipeFreitas5/sistema-de-biblioteca)
 
-Projeto acadêmico em desenvolvimento para simular um sistema de gerenciamento de biblioteca, trabalhando conceitos de organização de dados, cadastro e consulta de informações.
+Desenvolvi um sistema web para cadastrar, pesquisar, emprestar e devolver livros. O projeto utiliza HTML, CSS e JavaScript, além do LocalStorage para manter os livros salvos no navegador.
 
 ### Contato
 
