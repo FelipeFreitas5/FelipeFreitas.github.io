@@ -4,14 +4,14 @@
 
 ### Sobre Mim
 
-Olá! Sou o Felipe, estudante do 2º semestre de Análise e Desenvolvimento de Sistemas (ADS) no Centro Universitário Módulo. Estou no início da minha jornada na tecnologia e com muita vontade de aprender e crescer na área. Até agora, tive meus primeiros contatos com lógica de programação usando Python e aprendi o básico sobre como desenhar interfaces pensando na experiência do usuário.
+Olá! Sou o Felipe, estudante do 2º semestre de Análise e Desenvolvimento de Sistemas (ADS) no Centro Universitário Módulo. Estou no início da minha jornada na tecnologia e com muita vontade de aprender e crescer na área. Até agora, tive meus primeiros contatos com lógica de programação usando as linguagens C e Python e aprendi o básico sobre como desenvolver interfaces pensando na experiência do usuário.
 
 Neste momento, estou dando meus primeiros passos em Desenvolvimento Front-End (HTML/CSS) e entendendo como funcionam os Bancos de Dados. Meu objetivo principal hoje é conseguir o meu primeiro estágio, um ambiente onde eu possa aprender com profissionais mais experientes, fazer os exercícios da faculdade na prática e evoluir todos os dias.
 
 ### Habilidades Técnicas
 
 * **Desenvolvimento Front-End:** Estruturação para Web (HTML, CSS), Design Profissional
-* **Programação & Lógica:** Python, Algoritmos e Pensamento Computacional
+* **Programação & Lógica:** C, Python, Algoritmos e Pensamento Computacional
 * **Dados:** Modelagem e estruturação de Banco de Dados
 * **UX/UI & Design:** Figma, Miro, Lucidchart, Interação Humano-Computador, Acessibilidade (WCAG)
 * **Inteligência Artificial:** Engenharia de Prompt e Aplicações em IA
